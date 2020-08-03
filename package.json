@@ -1,0 +1,24 @@
+{
+  "name": "isro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "connect-busboy": "^0.0.2",
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sihaanssr/isro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sihaanssr/isro/issues"
+  },
+  "homepage": "https://github.com/sihaanssr/isro#readme"
+}
